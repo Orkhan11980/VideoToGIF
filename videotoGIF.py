@@ -2,7 +2,7 @@ import os
 
 from moviepy.editor import VideoFileClip
 
-input_directory = "Path/to/videos"
+input_directory = "Path/t/videos"
 
 output_directory = "Path/to/GIFS"
 
