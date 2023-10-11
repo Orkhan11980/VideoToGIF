@@ -2,9 +2,9 @@ import os
 
 from moviepy.editor import VideoFileClip
 
-input_directory = "/Users/macbook/Desktop/videos"
+input_directory = "/path/to/videos"
 
-output_directory = "/Users/macbook/Desktop/GIFS"
+output_directory = "/path/to/gifs"
 
 video_files = [f for f in os.listdir(input_directory) if f.endswith(".mp4")]
 
