@@ -18,10 +18,10 @@ With an easy-to-use interface and powerful capabilities, it makes the conversion
  1. Clone the repository
     
  2. Install Dependencies :
-   #  pip install moviepy
+   **pip install moviepy**
    
  3. Run the converter :
-   # python convert.py
+    **python convert.py** 
 
 # Usage
  **Place your video files in the input directory.**
